@@ -1,12 +1,12 @@
-## Aryash Shrivastava
-# IIIT Naya Raipur 
+# Aryash Shrivastava
+## front-End developer 
+## IIIT Naya Raipur
 
 - 🌱 I’m currently learning Blockchain development
 - 🤔 I’m looking for help with open source development
 - 💬 Ask me about Front-end developer
-- 📫 How to reach me: email: aryash22102@iiitnr.edu.in
+- 📫 How to reach me: email: aryashshrivastava97@gmail.com
 - 😄 Pronouns: he him
-- ⚡ Fun fact: ...
 -->
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
