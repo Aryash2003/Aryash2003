@@ -1,9 +1,6 @@
-## Hi there 👋
+## Aryash Shrivastava
+# IIIT Naya Raipur 
 
-<
-**Aryash2003/Aryash2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 🌱 I’m currently learning Blockchain development
 - 🤔 I’m looking for help with open source development
 - 💬 Ask me about Front-end developer
