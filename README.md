@@ -1,5 +1,5 @@
 # Aryash Shrivastava
-## front-End developer and ML Enthusiast
+## Front-End developer and ML Enthusiast
 ## IIIT Naya Raipur
 
 - 🌱 I’m currently learning Pytorch and deep Learning
