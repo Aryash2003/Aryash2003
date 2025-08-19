@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Pytorch and deep Learning<br>🤔 I’m looking for help with open source development<br>💬 Ask me about Front-end developer<br>📫 How to reach me: email: aryashshrivastava97@gmail.com<br>😄 Pronouns: he him -->
+🌱 I’m currently learning Pytorch and deep Learning<br>🤔 I’m looking for help with open source development<br>💬 Ask me about Backend and Machine Learning <br>📫 How to reach me: email: aryashshrivastava97@gmail.com<br>😄 Pronouns: he him -->
 
 
 ## 🌐 Socials:
